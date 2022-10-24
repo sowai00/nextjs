@@ -1,7 +1,7 @@
 {
   "name": "nextjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "next login system",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -14,13 +14,14 @@
     "url": "git+https://github.com/sowai00/nextjs.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "sowai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sowai00/nextjs/issues"
   },
   "homepage": "https://github.com/sowai00/nextjs#readme",
   "dependencies": {
+    "moralis": "^2.6.7",
     "next": "^12.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
